@@ -1,0 +1,7 @@
+{
+  "name": "ml-course",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "python lesson-9.py"
+  }
+}
